@@ -37,6 +37,9 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  </a>
 </p>
 
 #
