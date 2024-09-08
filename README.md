@@ -1,5 +1,3 @@
-#
-
 <h1 align="center">Hi, I'm <a href="https://github.com/your-username" target="_blank">Dylan</a> 👋</h1>
 
 <h3 align="center">Full Stack Developer | Ruby on Rails | Python</h3>
@@ -42,4 +40,25 @@
   </a>
 </p>
 
-#
+### 📚 Education
+- **BSc in IT** - Currently pursuing, with a focus on cloud computing, virtualisation, architecture, and platforms.
+- **Higher Certificate in Mobile App and Web Development** - Gained expertise in Kotlin, TypeScript, React Native, and Expo Go.
+- **Google IT Professional Certificate** - Completed comprehensive training in IT fundamentals and professional skills.
+- Background in agriculture with a passion for mycology.
+
+### 💼 Current Work Experience
+
+- **IoT Solutions for Agriculture and Pharmaceutical Industry**: Developing IoT solutions focusing on data collection, automation, and streamlining processes. Our stack includes **Ruby on Rails** for backend development, **PostgreSQL** for database management, **Prawn** for generating technical documentation and PDFs, and **Gruff** for creating visual data reports, enhancing decision-making in both industries.
+
+
+### 📁 Projects
+
+#### Ruby Projects
+- **Local Network Chatroom (In Progress)**: A chatroom used in the CLI for local network communication. [GitHub Link](https://github.com/dylanmydude/chatroom)
+
+#### Python Projects
+- **IoT Python Project**: Arduino-based project that pulls readings and displays them. [GitHub Link](https://github.com/dylanmydude/iot_app)
+- **CLI Dice Roller**: Randomly generates numbers for a d20 die and also randomly generates the colour of the ASCII dice. [GitHub Link](https://github.com/dylanmydude/D20-dice-roller)
+
+#### Web Development
+- **WP Theme**: A minimal theme with keyframe animations using HTML, CSS, JS, and PHP. [GitHub Link](https://github.com/dylanmydude/dylanluke-wp-theme)
